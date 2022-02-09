@@ -5,3 +5,4 @@ psycopg2-binary==2.9.3
 PyMySQL==1.0.2
 sqlparse==0.4.2
 tzdata==2021.5
+#varios controladores de bd para hacer pruebas
